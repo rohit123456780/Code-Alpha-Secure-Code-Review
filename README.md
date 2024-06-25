@@ -1,4 +1,4 @@
-# CodeAlpha_Secure_Coding_Review
+# ITPS_Secure_Coding_Review
 
 Task3 Summary: Completed a thorough Secure Coding Review for an application written in PHP. Identified and assessed security vulnerabilities(IDOR) through manual code review. Provided actionable recommendations to strengthen overall secure coding practices. 
 
